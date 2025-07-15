@@ -1,8 +1,7 @@
-# E-Commerce Application 🛒
+# E-Commerce Application
 
 This is a basic E-Commerce backend application built using **Java**, **Spring Boot**, and **MySQL**. It provides secure REST APIs to handle users, products, categories, orders, carts, and more. It also uses **Auth0** and **JWT** for user login and security.
 
----
 
 ##  What Can You Do?
 
@@ -21,7 +20,7 @@ This is a basic E-Commerce backend application built using **Java**, **Spring Bo
 - Manage your address and change product quantity
 - Place orders and check their status
 
----
+
 
 ##  Security
 
@@ -29,7 +28,7 @@ This is a basic E-Commerce backend application built using **Java**, **Spring Bo
 - Login using the `/login` API to get your token.
 - Add the token in the `Authorization` header when calling other APIs (Swagger makes this easy).
 
----
+
 
 ##  Tech Stack
 
